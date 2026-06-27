@@ -45,3 +45,6 @@ The pipeline is optimized for standard E-commerce/Online Retail transactional da
 Install the required packages using pip:
 ```bash
 pip install pandas numpy plotly panel openpyxl
+```
+<img width="1788" height="712" alt="image" src="https://github.com/user-attachments/assets/5ed5a465-431c-470f-96e0-b3ff679bf827" />
+
